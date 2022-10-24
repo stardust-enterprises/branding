@@ -1,0 +1,4 @@
+Default text color: #fff
+"Star": #579bd7
+"Dust": #d8dcb4
+Background: #0d0d0d
